@@ -39,10 +39,8 @@ EOF
                     ]
                 },
                 "streamSettings": {
-                    "network":"ws",
-                    "wsSettings": {
-                        "path": ""
-                    }
+                    "network":"ws"
+                    
                 }
             }
         ],
